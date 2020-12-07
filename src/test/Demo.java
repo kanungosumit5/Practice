@@ -9,6 +9,7 @@ public class Demo
 	public void alive()
 	{
 		Reporter.log("alive", true);
+		Reporter.log("dead", true);
 	}
 
 }
