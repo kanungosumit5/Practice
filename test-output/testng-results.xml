@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="14942" started-at="2020-12-04T12:23:26 IST" finished-at="2020-12-04T12:23:41 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="14942" started-at="2020-12-04T12:23:26 IST" finished-at="2020-12-04T12:23:41 IST">
+      <class name="test.TestFrameWork">
+        <test-method status="PASS" signature="openApp()[pri:0, instance:test.TestFrameWork@1ca2dfa]" name="openApp" is-config="true" duration-ms="10611" started-at="2020-12-04T12:23:26 IST" finished-at="2020-12-04T12:23:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openApp -->
+        <test-method status="PASS" signature="htmlDemo()[pri:0, instance:test.TestFrameWork@1ca2dfa]" name="htmlDemo" duration-ms="4267" started-at="2020-12-04T12:23:37 IST" finished-at="2020-12-04T12:23:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- htmlDemo -->
+        <test-method status="PASS" signature="closeApp()[pri:0, instance:test.TestFrameWork@1ca2dfa]" name="closeApp" is-config="true" duration-ms="0" started-at="2020-12-04T12:23:41 IST" finished-at="2020-12-04T12:23:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeApp -->
+      </class> <!-- test.TestFrameWork -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
